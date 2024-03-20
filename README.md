@@ -40,14 +40,16 @@
 
 <br>
 
+<div id="badges" align="center">
+    <a href="terry_resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-8590c5?style=flat&logo=Github&logoColor=white&labelColor=6a6fb1" height="30" /></a> 
+    <a href="https://www.linkedin.com/in/melissakayeterry/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30" /></a>
+    <a href="https://github.com/mkayeterry" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white" height="31" /></a>
+    <a href="mailto:mkterry@ucsb.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="30" /></a>
+</div>
+
+<br>
+
 <div id="stats" align="center">
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=mkayeterry&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkayeterry&theme=tokyonight-duo" alt="Most Used Languages" /></a> -->
-</div>
-
-<div id="badges" align="center">
-    <a href="terry_resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-8590c5?style=flat&logo=Github&logoColor=white&labelColor=6a6fb1" height="25" /></a> 
-    <a href="https://www.linkedin.com/in/melissakayeterry/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25" /></a>
-    <a href="https://github.com/mkayeterry" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white" height="26" /></a>
-    <a href="mailto:mkterry@ucsb.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="25" /></a>
 </div>
