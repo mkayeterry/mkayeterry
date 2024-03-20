@@ -1,16 +1,17 @@
+<div id="badges" align="center">
+    <h1>
+        <a href="terry_resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-8590c5?style=flat&logo=Github&logoColor=white&labelColor=6a6fb1" height="22" /></a> 
+        <a href="https://www.linkedin.com/in/melissakayeterry/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="22" /></a>
+        <a href="https://github.com/mkayeterry" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white" height="23" /></a>
+        <a href="mailto:mkterry@ucsb.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="22" /></a>
+    </h1>
+</div>
+
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/VgfCfNhYHobM0ax3TP/giphy.gif" width="300"/>
     <h1>hi there!</h1>
 </div>
 
-<div id="badges" align="center">
-    <a href="terry_resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-8590c5?style=flat&logo=Github&logoColor=white&labelColor=6a6fb1" height="22" /></a> 
-    <a href="https://www.linkedin.com/in/melissakayeterry/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="22" /></a>
-    <a href="https://github.com/mkayeterry" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white" height="23" /></a>
-    <a href="mailto:mkterry@ucsb.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="22" /></a>
-</div>
-
-<br>
 
 <div id="body" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzR2MmF0d3g3aTFkZmh1cW1waGF4bTUwY21mN3R2ZmlqdXl2aGR2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="14"/>
