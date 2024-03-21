@@ -27,7 +27,7 @@
         </tr>
         <tr>
             <td><a href="https://github.com/mkayeterry/recipe-urls" target="_blank">recipe-urls</a></td>
-            <td>Python 📦 to gather base URLs from recipe websites.</td>
+            <<td>Python 📦 to gather base URLs from recipe websites.<br></td>
             <td>Python</td>
         </tr>
         <tr>
