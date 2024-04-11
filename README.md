@@ -21,9 +21,9 @@
             <th>Language</th>
         </tr>
         <tr>
-            <td><a href="https://github.com/mkayeterry/recipe_api" target="_blank">recipe-api</a></td>
-            <td>Recipe matching web app backend: pipeline, database, and REST API.</td>
-            <td>Python, SQL</td>
+            <td><a href="https://github.com/mkayeterry/usda-fdc-data" target="_blank">usda-fdc-data</a></td>
+            <td>Repository for cleaning, processing, and wrangling USDA FoodData Central datasets.</td>
+            <td>Python</td>
         </tr>
         <tr>
             <td><a href="https://github.com/mkayeterry/recipe-urls" target="_blank">recipe-urls</a></td>
@@ -31,9 +31,9 @@
             <td>Python</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/mkayeterry/usda-fdc-data" target="_blank">usda-fdc-data</a></td>
-            <td>Repository for cleaning, processing, and wrangling USDA FoodData Central datasets.</td>
-            <td>Python</td>
+            <td><a href="https://github.com/mkayeterry/recipe_api" target="_blank">recipe-api</a></td>
+            <td>Recipe matching web app backend: pipeline, database, and REST API.</td>
+            <td>Python, SQL</td>
         </tr>
     </table>
 </p>
