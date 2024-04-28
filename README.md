@@ -50,5 +50,5 @@
 <br>
 
 <div id="stats" align="center">
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=mkayeterry&theme=tokyonight-duo&hide_current_streak=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=mkayeterry&theme=tokyonight-duo&mode=weekly" alt="GitHub Streak" /></a>
 </div>
