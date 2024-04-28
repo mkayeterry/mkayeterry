@@ -30,11 +30,11 @@
             <td>Python 📦 to compile recipe URLs from recipe websites.</td>
             <td>Python</td>
         </tr>
-        <tr>
+        <!-- <tr>
             <td><a href="https://github.com/mkayeterry/recipe_api" target="_blank">recipe-api</a></td>
             <td>Recipe matching web app backend: pipeline, database, and REST API.</td>
             <td>Python, SQL</td>
-        </tr>
+        </tr> -->
     </table>
 </p>
 
@@ -50,5 +50,5 @@
 <br>
 
 <div id="stats" align="center">
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=mkayeterry&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=mkayeterry&theme=tokyonight-duo&hide_current_streak=true" alt="GitHub Streak" /></a>
 </div>
