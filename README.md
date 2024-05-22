@@ -2,13 +2,13 @@
     <img src="https://media.giphy.com/media/VgfCfNhYHobM0ax3TP/giphy.gif" width="300"/>
     <h1>hi there!</h1>
 </div>
-
+</div>
 <div id="body" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzR2MmF0d3g3aTFkZmh1cW1waGF4bTUwY21mN3R2ZmlqdXl2aGR2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="14"/>
     <span>I'm Melissa! I recently graduated from UCSB with a degree in biochemistry-molecular biology, but my path took a turn towards computational biology and programming.</span>
     <br>
     <br>    
-    <span>Currently, I'm working on some projects to gear my skillset towards work as a data analyst or the like! The latest and greatest is a recipe matching web application (cool name: tbd). This application is supported by a Python-powered REST API, and utilizes an AWS event-driven pipeline to integrate millions of recipes from various sources on an EC2-hosted Postgres database. Take a look at the associated repos below.</span>
+    <span>Currently, I'm working on some projects to gear my skillset towards work as a data analyst or the like! The latest and greatest is a recipe matching web application (cool name: tbd). This application is supported by a Python-powered REST API, and utilizes an AWS event-driven pipeline to integrate millions of recipes from various sources on an EC2-hosted Postgres database. Take a look at some of the associated repos below.</span>
 </div>
 
 <br>
