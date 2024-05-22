@@ -8,7 +8,7 @@
     <span>I'm Melissa! I recently graduated from UCSB with a degree in biochemistry-molecular biology, but my path took a turn towards computational biology and programming.</span>
     <br>
     <br>    
-    <span>Currently, I'm working on some projects to gear my skillset towards work as a data analyst. The latest and greatest is a recipe matching web application (cool name: tbd). This application is supported by a Python-powered REST API, and utilizes an AWS event-driven pipeline to integrate millions of recipes from various sources on an EC2-hosted Postgres database. Take a look at the associated repos below.</span>
+    <span>Currently, I'm working on some projects to gear my skillset towards work as a data analyst or the like! The latest and greatest is a recipe matching web application (cool name: tbd). This application is supported by a Python-powered REST API, and utilizes an AWS event-driven pipeline to integrate millions of recipes from various sources on an EC2-hosted Postgres database. Take a look at the associated repos below.</span>
 </div>
 
 <br>
@@ -49,6 +49,6 @@
 
 <br>
 
-<div id="stats" align="center">
+<!-- <div id="stats" align="center">
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=mkayeterry&theme=tokyonight-duo&mode=weekly" alt="GitHub Streak" /></a>
-</div>
+</div> -->
